@@ -9,6 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+
     steps:
       - name: Generate the snake game from GitHub contribution graph
         uses: Platane/snk@v3
